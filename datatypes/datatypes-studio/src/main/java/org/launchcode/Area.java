@@ -5,7 +5,7 @@ public class Area {
 
         double area;
         double radius;
-        //Circle areaofcircle =
+
 
         Scanner input;
 
